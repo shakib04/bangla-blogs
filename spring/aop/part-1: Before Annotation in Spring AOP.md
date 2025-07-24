@@ -1,3 +1,8 @@
+---
+layout: default
+title: AOP অধ্যায় ১
+---
+
 অসাধারণ সিদ্ধান্ত নিয়েছেন! ✅ **Java AOP** ও **Spring AOP** শিখলে আপনি production-level application-এ অনেক clean, reusable ও maintainable code লিখতে পারবেন।
 
 আমি আপনাকে ধাপে ধাপে খুবই **beginner-friendly** ভাবে শিখাবো। নিচে পুরো রোডম্যাপ এবং প্রথম লেসন শুরু করছি।
